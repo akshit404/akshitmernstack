@@ -1,0 +1,31 @@
+#aboutbox {
+    position: relative;
+  margin: 5% auto;
+
+    width: 827px;
+    height: 510px;
+    border: 1px solid white;
+    background: #f7f8f6;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 7px;
+  }
+  .profile-head{
+    margin: 44px;
+    padding: 3px;
+    position: relative;
+    left: -13%;
+  }
+  #profile-edit-btnn{
+    position: relative;
+    left: -124px;
+    margin: 50px;
+  }
+  #about-img{
+    height: 259px;
+    border-radius: 6px;
+    border: 2px solid black;
+    margin-top: 7px;
+
+
+  }
